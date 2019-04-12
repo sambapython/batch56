@@ -1,0 +1,20 @@
+INFO:root:welcome
+INFO:root:A value entered
+INFO:root:b value entered.
+DEBUG:root:before conversion: a=12,b=2
+INFO:root:a value converted
+INFO:root:b value converted
+DEBUG:root:after conversion: a=12.0,b=2.0
+INFO:root:result calculated
+DEBUG:root:res=6.0
+INFO:root:thank you
+2019-04-12 07:56:13,271->INFO==>welcome
+2019-04-12 07:56:14,694->INFO==>A value entered
+2019-04-12 07:56:15,709->INFO==>b value entered.
+2019-04-12 07:56:15,709->DEBUG==>before conversion: a=12,b=2
+2019-04-12 07:56:15,710->INFO==>a value converted
+2019-04-12 07:56:15,710->INFO==>b value converted
+2019-04-12 07:56:15,710->DEBUG==>after conversion: a=12.0,b=2.0
+2019-04-12 07:56:15,710->INFO==>result calculated
+2019-04-12 07:56:15,710->DEBUG==>res=6.0
+2019-04-12 07:56:15,710->INFO==>thank you
